@@ -4,7 +4,7 @@
 <p align="left"> 
   Me chamo Gabriela Ferrarini, tenho 24 anos, sou formada em Logística e atualmente estou focada para a transição
   de carreria voltada à área de <strong> Tecnologia da Informação </strong>
-  Para isso comecei uma graduação em Analise e Desenvolvimento de Sistemas na FMU e também iniciei o curso da 15° edição do Programa Starter
+  <br> Para isso comecei uma graduação em Analise e Desenvolvimento de Sistemas na FMU e também iniciei o curso da 15° edição do Programa Starter
   Desenvolvimento Web Full Stack
 </p>
 
