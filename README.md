@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/1/#inbox" alt="Gmail">
+  <a href="mailto:gabi.arendy@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox" /></a>
 
   <a href="https://www.linkedin.com/in/gabriela-ferrarini-3905071a1" alt="Linkedin">
