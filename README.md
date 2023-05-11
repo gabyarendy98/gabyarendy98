@@ -1,9 +1,11 @@
 #BREVE_APRESENTAÇÃO
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/gabyarendy98/gabyarendy98/7afbe25d8137e4ac3e40739e0e6fa8bf641a1eb4/IMG-20230101-WA0005.jpeg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Me chamo Gabriela Ferrarini, tenho 24 anos, sou formada em Logística e atualmente estou focada para a transição
+  de carreria voltada a Tecnologia da Informação
+  Para isso comecei uma graduação em Analise e Desenvolvimento de Sistemas na FMU e também iniciei o curso da 15° edição do Programa Starter
+  Desenvolvimento Web Full Stack
 </p>
 
 <p align="left">
