@@ -2,14 +2,14 @@
 <img src="https://raw.githubusercontent.com/gabyarendy98/gabyarendy98/7afbe25d8137e4ac3e40739e0e6fa8bf641a1eb4/IMG-20230101-WA0005.jpeg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Gabriela Ferrarini, tenho 26 anos, sou formada em Logística e atualmente estou focada para a transição
+  Me chamo Gabriela Ferrarini, tenho 27 anos, sou formada em Logística e atualmente estou focada para a transição
   de carreria voltada à área de <strong> Tecnologia da Informação </strong>
-  <br> Para isso comecei uma graduação em Analise e Desenvolvimento de Sistemas na FMU e também iniciei o curso da 15° edição do Programa Starter
+  <br> Para isso comecei uma graduação em Analise e Desenvolvimento de Sistemas na FATEC e finalizei o curso da 19° edição do Programa Starter
   Desenvolvimento Web Full Stack
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML e CSS</strong>
+  🦄 Linguagens: <strong>HTML , Java, JavaScript e CSS</strong>
 </p>
 
 <p align="left">
